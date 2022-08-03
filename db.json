@@ -1,0 +1,91 @@
+{
+  "projects": [
+    {
+      "name": "delimitação",
+      "budget": "50000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "Construção de galpão",
+      "budget": "52000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "Site  institucional go home",
+      "budget": "3300",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 7
+    },
+    {
+      "name": "Site funerária",
+      "budget": "3300",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 375,
+      "services": [
+        {
+          "name": "Busca por layouts",
+          "cost": "375",
+          "description": "encontrar designer",
+          "id": "74afdc42-a5df-4408-82cb-872e56b214a6"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "Site",
+      "budget": "1000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 700,
+      "services": [
+        {
+          "name": "programador",
+          "cost": "700",
+          "description": "desenvolver site",
+          "id": "6ea7770a-ed3f-474b-8ab8-25dccb8e615a"
+        }
+      ],
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}

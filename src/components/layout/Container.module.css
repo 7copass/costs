@@ -1,0 +1,27 @@
+.container {
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    flex-wrap: wrap;
+  }
+  
+  .container h1 {
+    text-decoration: none;
+    color: #ffbb33;
+    padding: 0 0.5em;
+    font-size: 28px;
+  }
+  
+  .start {
+    justify-content: flex-start;
+  }
+  
+  .column {
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  
+  .minHeight {
+    min-height: 75vh;
+  }
